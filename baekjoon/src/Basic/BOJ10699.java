@@ -10,5 +10,4 @@ public class BOJ10699 {
         SimpleDateFormat simple = new SimpleDateFormat("yyyy-MM-dd");
         System.out.println(simple.format(date));
     }
-
 }
